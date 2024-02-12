@@ -1,0 +1,8 @@
+/* banner.css */
+.banner {
+    background-image: url("https://aas-shipping.com/wp-content/uploads/2023/02/land-freight-1.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 35rem;
+    width: 100%;
+}
